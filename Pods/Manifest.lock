@@ -1,0 +1,16 @@
+PODS:
+  - "UITableView+FDTemplateLayoutCell (1.6)"
+
+DEPENDENCIES:
+  - "UITableView+FDTemplateLayoutCell (= 1.6)"
+
+SPEC REPOS:
+  trunk:
+    - "UITableView+FDTemplateLayoutCell"
+
+SPEC CHECKSUMS:
+  "UITableView+FDTemplateLayoutCell": 5c949b4a5059c404b442926c0e80f81d10a2d66f
+
+PODFILE CHECKSUM: 42ef1334061c09ae3ecba1c2a98d9252fb430fbc
+
+COCOAPODS: 1.10.0
