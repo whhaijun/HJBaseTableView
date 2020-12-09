@@ -9,13 +9,13 @@ Pod::Spec.new do |spec|
 	一个简单的TableView 内部采用了 FDTemplateLayoutCell 计算和缓存高度。
                    DESC
 
-  spec.homepage     = "https://github.com/whhaijun/audioPlayView"
+  spec.homepage     = "https://github.com/whhaijun/HJBaseTableView"
 
   spec.license      = { :type => "MIT", :file => "LICENSE" }
 
   spec.platform     = :ios, "10.0"
 
-  spec.source       = { :git => "https://github.com/whhaijun/audioPlayView.git", :tag => spec.version }
+  spec.source       = { :git => "https://github.com/whhaijun/HJBaseTableView.git", :tag => spec.version }
 
 
   spec.source_files  = "HJBaseTableView/HJBaseTableView/**/*"
