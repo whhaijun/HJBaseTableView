@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "HJBaseTableView"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.2"
   spec.summary      = "Modules and components framework for iOS."
   spec.authors      = { 'HJ' => '2033253382@qq.com' }  
   spec.description  = <<-DESC
